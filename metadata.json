@@ -1,0 +1,6 @@
+{
+  "name": "FleetCare Service Desk",
+  "description": "Modular Vehicle Service Management System for tracking fleet maintenance schedules, customer & vehicle records, service appointments, repair history, and service charge invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
